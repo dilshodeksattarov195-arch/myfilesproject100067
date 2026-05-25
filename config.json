@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevrocess",
+        "uuid": 642999,
+        "checksum": "30glc"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
